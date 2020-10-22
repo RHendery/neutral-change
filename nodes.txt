@@ -1,0 +1,12 @@
+1    white
+2    black
+3    black
+4    black
+5    white
+6    white
+7    white
+8    white
+9    black
+10   black
+11   black
+12   black
